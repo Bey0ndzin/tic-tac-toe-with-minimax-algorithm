@@ -1,4 +1,4 @@
-## Third Project of the IA subject
+## Third Project of the AI subject
 
 ## 🧑‍🎓 Members
 

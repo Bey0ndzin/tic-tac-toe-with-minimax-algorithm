@@ -10,4 +10,4 @@ This is a program made in Python that plays Tic-Tac-Toe against the player.
 It calculates every move using the Minimax Algorithm, more Info inside the PDF in the documents folder.
 ## 📋 License
 
-Este projeto utiliza a licença [MIT](https://opensource.org/license/mit).
+This project uses the MIT License [MIT](https://opensource.org/license/mit).

@@ -1,12 +1,13 @@
-## Projeto 3 de TI326 - Inteligência Artificial
+## Third Project of the IA subject
 
-## 🧑‍🎓 Integrantes
+## 🧑‍🎓 Members
 
-* Victor Hugo Barbosa dos Santos - 22152
-* Pedro Henrique Batista Nunes - 22147
+* Victor Hugo Barbosa dos Santos
+* Pedro Henrique Batista Nunes
 
-## 📝 Descrição
-
-## 📋 Licença
+## 📝 Description
+This is a program made in Python that plays Tic-Tac-Toe against the player. 
+It calculates every move using the Minimax Algorithm, more Info inside the PDF in the documents folder.
+## 📋 License
 
 Este projeto utiliza a licença [MIT](https://opensource.org/license/mit).
